@@ -153,7 +153,7 @@
 // // Math.pow(base, exponent) - повертає в степінь
 // console.log(Math.pow(2, 4)); // 16
 
-// // Math.random() - повертає випадкове число в диапазоне [0, 1)
+// // Math.random() - повертає випадкове число в діапазоні [0, 1)
 // console.log(Math.random()); // випадкове число між 0 и 1
 // console.log(Math.random() * (10 - 1) + 1); // випадкове число від 1 до 10
 
